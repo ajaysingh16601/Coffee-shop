@@ -6,3 +6,7 @@ The website includes the following pages:
 Home page: A landing page that provides an overview of the business and its services
 Contact us: A page that includes a form for visitors to send inquiries or requests for more information
 The website also includes a navigation menu, which is fully responsive, and adapts to different screen sizes. The website's layout was built using CSS Grid and Flexbox, which makes it responsive and adaptable to different screen sizes.
+
+Link to her Repo: https://github.com/ajaysingh16601/Coffee-shop
+
+CLICK HERE TO VIEW DEPLOYEMENT- https://ajaysingh16601.github.io/Coffee-shop/
